@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\KNNLIL002\\source\\repos\\chietaApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2BEEA6-8CE0-4159-95BD-B2A2D733143C}|ChietaApp.csproj|c:\\users\\knnlil002\\source\\repos\\chietaapp\\models\\enquirydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2BEEA6-8CE0-4159-95BD-B2A2D733143C}|ChietaApp.csproj|solutionrelative:models\\enquirydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnquiryDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\KNNLIL002\\source\\repos\\chietaApp\\Models\\EnquiryDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\EnquiryDBContext.cs",
+              "ToolTip": "C:\\Users\\KNNLIL002\\source\\repos\\chietaApp\\Models\\EnquiryDBContext.cs",
+              "RelativeToolTip": "Models\\EnquiryDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:46:06.399Z",
+              "EditorCaption": ""
             }
           ]
         }
